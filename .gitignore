@@ -1,0 +1,5 @@
+.idea/
+*.exe
+*.o
+tasks.txt
+test_dummy.txt
